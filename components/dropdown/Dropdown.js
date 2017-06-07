@@ -208,6 +208,7 @@ const factory = (Input) => {
           onBlur={this.handleBlur}
           onFocus={this.handleFocus}
         >
+          <h1>#EOT hello world</h1>
           <Input
             {...others}
             tabIndex="0"
